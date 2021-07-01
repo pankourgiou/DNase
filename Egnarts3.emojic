@@ -1,2 +1,0 @@
-ARMAtoMA(ar=.5, ma=.5, 80)       #  for a list        
-plot(ARMAtoMA(ar=.5, ma=.5, 80)) #  for a graph 
